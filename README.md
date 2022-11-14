@@ -30,6 +30,11 @@ The resumes with annotations dataset (See [Resume dataset](https://github.com/Ha
 In the data preprocessing, we first convert this dataset into DataFrame and then remove special characters in the resume contents. Second, we extract the annotations into entities. Last, we split this dataset into 90% training and 10% testing.
 
 ## Installation & Usage
+We recommend to run the code in Google Colab while we provide two options to run our codes. 
+* **Run in Google Colab:**
+
+* **Run in Local System:**
+
 
 ## Method
 
