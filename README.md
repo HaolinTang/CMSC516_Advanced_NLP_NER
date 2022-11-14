@@ -11,12 +11,18 @@ Akanksha Kosana, Lavanya Thollamadugu and Haolin Tang Group Project at Virginia 
 The resumes with annotations dataset (See [Resume dataset](https://github.com/HaolinTang/CMSC516_Advanced_NLP_NER/tree/main/data)) is used to perform NER on resumes. This dataset has 220 items with manually labeled annotations. The labels are divided into following 10 categories:
 <table>
 <tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
+    <td>Name</td>
+    <td>College Name</td>
+    <td>Degree</td>
+    <td>Graduation Year</td>
+    <td>Years of Experience</td>
 </tr>
 <tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
+    <td>Companies worked at</td>
+    <td>Designation</td>
+    <td>Skills</td>
+    <td>Location</td>
+    <td>Email Address</td>
 </tr>
 </table>
 
