@@ -6,6 +6,7 @@ Akanksha Kosana, Lavanya Thollamadugu and Haolin Tang Group Project at Virginia 
 
 ## Overview
 **Named-entity recognition (NER)** is a sub-task of information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc. In this project, we will apply three methods into NER on resumes and ten named entities will be recognized. First, we will download the resumes data with annotations and then implement the necessary data preprocessing steps. Second, the sapCy NER model, conditional random field (CRF) model and BERT model will be built for this task. Third, we will compare the performance of above three models and test them using an unseen rewume of an employee.    
+![image](https://user-images.githubusercontent.com/102632570/201744684-a0170a7a-11c8-4e4a-bb6b-7694a85ee3db.png)
 
 ## Data
 The resumes with annotations dataset (See [Resume dataset](https://github.com/HaolinTang/CMSC516_Advanced_NLP_NER/tree/main/data)) is used to perform NER on resumes. This dataset has 220 items with manually labeled annotations. The labels are divided into following 10 categories:
