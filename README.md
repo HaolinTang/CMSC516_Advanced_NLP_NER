@@ -27,6 +27,7 @@ The resumes with annotations dataset (See [Resume dataset](https://github.com/Ha
 </tr>
 </table>
 </div>
+In the data preprocessing, we first convert this dataset into DataFrame and then remove special characters in the resume contents. Second, we extract the annotations into entities. Last, we split this dataset into 90% training and 10% testing.
 
 ## Installation & Usage
 
