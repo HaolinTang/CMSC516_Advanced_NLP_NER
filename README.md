@@ -48,7 +48,9 @@ Before running our codes, you have to first download the dataset and load it to 
 
 ## Method
 * **Conditional Random Filed**
-![image](https://user-images.githubusercontent.com/102632570/201797541-ee268d71-1e3f-4a17-a085-e3b7a8e32cd1.png)
+The CRF formula is defined as:
+![image](https://user-images.githubusercontent.com/102632570/201797751-8e982719-1372-47ee-9e8c-737e894ebce8.png)
+
 
 
 * **spaCy model**
