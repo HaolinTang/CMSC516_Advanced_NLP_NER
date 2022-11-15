@@ -70,5 +70,7 @@ The BERT model was proposed in BERT: Pre-training of Deep Bidirectional Transfor
 ![image](https://user-images.githubusercontent.com/102632570/201946857-bc8f9414-675c-4db6-a567-5c4a3b75770b.png)\
 **Overall average accuracy: 0.849793.**
 ## Discussions
+1. We have built three different models for NER on resumes. The average accuracy of CRF model is about 0.9068. The average accuracy of spaCy NER model is about 0.9180. The average accuracy of BERT model is about 0.8497.
+2. Based on the results, it can be concluded that the spaCy NER model provides the best performance.
 
 ## Future Work
