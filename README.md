@@ -50,7 +50,7 @@ Before running our codes, you have to first download the dataset and load it to 
 * **Conditional Random Filed**\
 The CRF formula is defined as:\
 ![image](https://user-images.githubusercontent.com/102632570/201798050-3488e30e-26fd-4072-aca9-e196c210ba2f.png)\
-Here, Y is the hidden state (for example, part of speech) and X is the observed variable (in our example this is the entity or other words around it). 
+Here, p(y|x) refers to the probability of calculating a label sequence given a word sequence.
 
 * **spaCy model**
 * **Bert**
