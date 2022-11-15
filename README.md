@@ -33,11 +33,19 @@ In the data preprocessing, we first convert this dataset into DataFrame and then
 
 ## Installation & Usage
 We recommend to run the code in Google Colab while we provide two options to run our codes. 
-* **Run in Google Colab:**
+* **Run in Google Colab:**\
 Before running our codes, you have to first download the dataset and load it to your Google Colab.
+- NER on resumes using CRF.
+- NER on resumes using spaCy.
+- NER on resumes using Bert. 
 
 * **Run in Local System:**
-
+    - Install Andconda (See [Installation Guide](https://docs.continuum.io/anaconda/install/))
+    - Create a new conda environment named `cmsc516` with the following command.\
+      `conda env create -f environment.yml`
+    - Activate the environment: `conda activate cmsc516`  
+    - Install jupyter notebook: `conda install jupyter`
+    - Run jupyter from system: `jupyter notebook`. Now, you can run the notebooks in your local system.   
 
 ## Method
 
