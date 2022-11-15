@@ -47,7 +47,9 @@ Before running our codes, you have to first download the dataset and load it to 
     - Run jupyter from system: `jupyter notebook`. Now, you can run the notebooks in your local system.   
 
 ## Method
-
+* **Conditional Random Filed**
+* **spaCy model**
+* **Bert**
 ## Results
 
 ## Discussions
