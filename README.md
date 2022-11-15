@@ -54,7 +54,8 @@ Here, *p(y|x)* refers to the probability of calculating a label sequence given a
 
 * **spaCy NER Model**\
 spaCy provides an exceptionally efficient statistical system for named entity recognition in python. It provides a default model which can recognize a wide range of named or numerical entities, which include company-name, location, organization, product-name, etc to name a few. Apart from these default entities, spaCy enables the addition of arbitrary classes to the entity-recognition model, by training the model to update it with newer trained examples. 
-* **Bert**
+* **Bert**\
+The BERT model was proposed in BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova. It’s a bidirectional transformer pretrained using a combination of masked language modeling objective and next sentence prediction on a large corpus comprising the Toronto Book Corpus and Wikipedia.
 ## Results
 
 ## Discussions
