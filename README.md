@@ -76,7 +76,7 @@ The BERT model was proposed in BERT: Pre-training of Deep Bidirectional Transfor
    **Resume used for testing:**\
    ![image](https://user-images.githubusercontent.com/102632570/201950297-c3d40fe3-2f0e-4c18-9722-73ed18a92764.png)\
    **Output of the spaCy NER model:**\
-   ![image](https://user-images.githubusercontent.com/102632570/201950326-c70591f1-e680-44b4-8c45-14eddb348e80.png)\
+   ![image](https://user-images.githubusercontent.com/102632570/201950326-c70591f1-e680-44b4-8c45-14eddb348e80.png)
 
 
 
