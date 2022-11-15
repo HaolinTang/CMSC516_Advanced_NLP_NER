@@ -35,9 +35,10 @@ In the data preprocessing, we first convert this dataset into DataFrame and then
 We recommend to run the code in Google Colab while we provide two options to run our codes. 
 * **Run in Google Colab:**\
 Before running our codes, you have to first download the dataset and load it to your Google Colab.
-- NER on resumes using CRF.
-- NER on resumes using spaCy.
-- NER on resumes using BERT. 
+- NER on resumes using CRF. (Run [NER_CRF.ipynb](https://colab.research.google.com/drive/1huV8wZWO0Q0rBGShqyF0s8EXOyxcbMf4?usp=sharing))
+- NER on resumes using spaCy. (Run [NER_spaCy.ipynb](https://colab.research.google.com/drive/1wqWmfWSQORNZqOFFTDh21WHZWozPxV68?usp=sharing))
+- NER on resumes using BERT.\
+ (Run [NER_BERT.ipynb](https://colab.research.google.com/drive/1cKNmrIcJarsLUdWhXLhTr_VMDyn16gDY?usp=sharing), **NOTE** Please change the Colab runtime type to GPU) 
 
 * **Run in Local System:**
     - Install Andconda (See [Installation Guide](https://docs.continuum.io/anaconda/install/))
