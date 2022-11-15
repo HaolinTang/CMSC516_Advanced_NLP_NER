@@ -48,7 +48,8 @@ Before running our codes, you have to first download the dataset and load it to 
 
 ## Method
 * **Conditional Random Filed**
-![image](https://user-images.githubusercontent.com/102632570/201796850-0369bfe3-7f47-484a-868f-a85f031f80c2.png | width=100)
+![image](https://user-images.githubusercontent.com/102632570/201797541-ee268d71-1e3f-4a17-a085-e3b7a8e32cd1.png)
+
 
 * **spaCy model**
 * **Bert**
