@@ -50,7 +50,7 @@ Before running our codes, you have to first download the dataset and load it to 
 * **Conditional Random Filed**\
 The CRF formula is defined as:\
 ![image](https://user-images.githubusercontent.com/102632570/201798050-3488e30e-26fd-4072-aca9-e196c210ba2f.png)\
-Here, p(y|x) refers to the probability of calculating a label sequence given a word sequence.
+Here, *p(y|x)* refers to the probability of calculating a label sequence given a word sequence.
 
 * **spaCy NER Model**\
 spaCy provides an exceptionally efficient statistical system for named entity recognition in python. It provides a default model which can recognize a wide range of named or numerical entities, which include company-name, location, organization, product-name, etc to name a few. Apart from these default entities, spaCy enables the addition of arbitrary classes to the entity-recognition model, by training the model to update it with newer trained examples. 
