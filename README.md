@@ -61,14 +61,14 @@ The BERT model was proposed in BERT: Pre-training of Deep Bidirectional Transfor
 ## Results
 * **Conditional Random Filed:**\
 ![image](https://user-images.githubusercontent.com/102632570/201946671-cb7dd69b-aad9-431c-a9b8-480dcc1219d3.png)\
-Overall average accuracy: 0.9068273092369478.
+**Overall average accuracy: 0.9068273092369478.**
 
 * **spaCy NER Model:**\
 ![image](https://user-images.githubusercontent.com/102632570/201946767-3337d414-7b5f-4f83-a04d-1545bae5966d.png)\
-Overall average accuracy: 0.9180339314389444.
+**Overall average accuracy: 0.9180339314389444.**
 * **BERT:**\
 ![image](https://user-images.githubusercontent.com/102632570/201946857-bc8f9414-675c-4db6-a567-5c4a3b75770b.png)\
-Overall average accuracy: 0.849793.
+**Overall average accuracy: 0.849793.**
 ## Discussions
 
 ## Future Work
