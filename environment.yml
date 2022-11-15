@@ -1,0 +1,17 @@
+name: cmsc516
+dependencies:
+  - pip
+  - python
+  - tensorflow
+  - matplotlib
+  - scipy
+  - pandas
+  - scikit-learn
+  - nltk
+  - keras
+  - csv
+  - torch
+  - seqeval==0.0.12
+  - spacy==2.1.4
+  - python-crfsuite
+  - pytorch_pretrained_bert
