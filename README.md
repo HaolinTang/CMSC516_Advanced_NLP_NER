@@ -41,8 +41,7 @@ Before running our codes, you have to first download the dataset and load it to 
 
 * **Run in Local System:**
     - Install Andconda (See [Installation Guide](https://docs.continuum.io/anaconda/install/))
-    - Create a new conda environment named `cmsc516` with the following command.\
-      `conda env create -f environment.yml`
+    - Create a new conda environment named `cmsc516` with the command: `conda env create -f environment.yml`
     - Activate the environment: `conda activate cmsc516`  
     - Install jupyter notebook: `conda install jupyter`
     - Run jupyter from system: `jupyter notebook`. Now, you can run the notebooks in your local system.   
