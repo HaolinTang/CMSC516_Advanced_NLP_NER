@@ -83,4 +83,6 @@ The BERT model was proposed in BERT: Pre-training of Deep Bidirectional Transfor
 
 ## Future Work
 1. We will attempt to collect more annotated resume data to train the BERT model and improve its performance since BERT has shown superiority in many NLP tasks.
-2. We will attempt to built a software. With the inputs of a `PDF` or `word` file of someone's resume, it can output the recognized entities in the resume. 
+2. We will try to develop an application in which we will deploy the trained NER model. Given a new resume, it can automatically recognize the named entities we expected.
+
+
