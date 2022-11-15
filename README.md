@@ -47,7 +47,7 @@ Before running our codes, you have to first download the dataset and load it to 
     - Run jupyter from system: `jupyter notebook`. Now, you can run the notebooks in your local system.   
 
 ## Method
-* **Conditional Random Filed**
+* **Conditional Random Filed**\
 The CRF formula is defined as:\
 ![image](https://user-images.githubusercontent.com/102632570/201798050-3488e30e-26fd-4072-aca9-e196c210ba2f.png)
 
