@@ -48,7 +48,7 @@ Before running our codes, you have to first download the dataset and load it to 
 
 ## Method
 * **Conditional Random Filed**
-The CRF formula is defined as:
+The CRF formula is defined as:\
 ![image](https://user-images.githubusercontent.com/102632570/201797751-8e982719-1372-47ee-9e8c-737e894ebce8.png)
 
 
