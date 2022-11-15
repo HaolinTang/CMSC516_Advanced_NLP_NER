@@ -72,7 +72,8 @@ The BERT model was proposed in BERT: Pre-training of Deep Bidirectional Transfor
 ## Discussions
 1. We have built three different models for NER on resumes. The average accuracy of CRF model is about 0.9068. The average accuracy of spaCy NER model is about 0.9180. The average accuracy of BERT model is about 0.8497.
 2. From the evaluation of the models and the observed outputs, spaCy seems to outperform CRF and BERT model for the task of summarizing resumes.
-3. We also use an unseen resume of an employee to test the spaCy model since this model has the best performance. Based on the reults below, we can see that the spaCy NER model successfully recognized the degree, designation, graduation year, name, companies worked at, email address, location and skills in the resume.\
+3. The BERT model provides the lowest accuracy. The possible explanation is that our dataset is not large enough to train such a complex model.
+4. We also use an unseen resume of an employee to test the spaCy model since this model has the best performance. Based on the reults below, we can see that the spaCy NER model successfully recognized the degree, designation, graduation year, name, companies worked at, email address, location and skills in the resume.\
    **Resume used for testing:**\
    ![image](https://user-images.githubusercontent.com/102632570/201950297-c3d40fe3-2f0e-4c18-9722-73ed18a92764.png)\
    **Output of the spaCy NER model:**\
