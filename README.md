@@ -60,14 +60,14 @@ spaCy provides an exceptionally efficient statistical system for named entity re
 The BERT model was proposed in BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova. It’s a bidirectional transformer pretrained using a combination of masked language modeling objective and next sentence prediction on a large corpus comprising the Toronto Book Corpus and Wikipedia.
 ## Results
 * **Conditional Random Filed:**\
-![image](https://user-images.githubusercontent.com/102632570/201945775-2bf4eea1-07c4-4c5b-a2ae-0162fb041bd4.png)\
+![image](https://user-images.githubusercontent.com/102632570/201946671-cb7dd69b-aad9-431c-a9b8-480dcc1219d3.png)\
 Overall average accuracy: 0.9068273092369478.
 
 * **spaCy NER Model:**\
-![image](https://user-images.githubusercontent.com/102632570/201945876-52d4b147-2ea1-403e-b287-279da859c422.png)
+![image](https://user-images.githubusercontent.com/102632570/201946767-3337d414-7b5f-4f83-a04d-1545bae5966d.png)\
 Overall average accuracy: 0.9180339314389444.
 * **BERT:**\
-![image](https://user-images.githubusercontent.com/102632570/201946025-59f9cd61-152a-41a8-b425-dfca59740f26.png)
+![image](https://user-images.githubusercontent.com/102632570/201946857-bc8f9414-675c-4db6-a567-5c4a3b75770b.png)\
 Overall average accuracy: 0.849793.
 ## Discussions
 
