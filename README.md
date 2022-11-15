@@ -34,6 +34,7 @@ In the data preprocessing, we first convert this dataset into DataFrame and then
 ## Installation & Usage
 We recommend to run the code in Google Colab while we provide two options to run our codes. 
 * **Run in Google Colab:**
+Before running our codes, you have to first download the dataset and load it to your Google Colab.
 
 * **Run in Local System:**
 
